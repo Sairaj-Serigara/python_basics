@@ -1,14 +1,19 @@
 a="Sairaj"
 b="!!Devadiga!!!"
 c="Sairaj!! Devadiga  !!!"
-print(a.upper())
-print(a.lower())
+# print(a.upper())
+# print(a.lower())
 
-print(b)
-print(b.rstrip("!"))
-print(b.lstrip("!"))
+# print(a.replace("airaj","xxxxxxxxxxxxx"))
+# print(a)
 
-print(c.split(" "))
+# print(a.find("A"))
+
+# print(b)
+# print(b.rstrip("!"))
+# print(b.lstrip("!"))
+
+# print(c.split(" "))
 
 #capitalize changes the some silly errors like upper case or etc..
 Heading="introduction To pYthon"
